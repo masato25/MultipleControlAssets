@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# custom ignore
+tmp
+tmp2
+tmp3
+gitabi.rb
+yarn.lock
+package-lock.json
+build/contracts
+getabi.rb

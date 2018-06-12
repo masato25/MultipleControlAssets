@@ -1,0 +1,31 @@
+{
+  "name": "multiplecontrolassets",
+  "version": "1.0.0",
+  "description": "0x483e8C48b216687818dB732aF22874d722db68B7 1000000000000000000 1 0x1080447691315858612003b2f088b604507004c074331caef23fe6212b1da3651567603951849457a98bf4930aeaba472a2faee26fd38759fe91925a0a6123921b",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "js-sha3": "^0.7.0",
+    "left-pad": "^1.3.0"
+  },
+  "devDependencies": {
+    "ethereumjs-tx": "^1.3.4",
+    "web3": "^1.0.0-beta.34"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masato25/MultipleControlAssets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masato25/MultipleControlAssets/issues"
+  },
+  "homepage": "https://github.com/masato25/MultipleControlAssets#readme"
+}
